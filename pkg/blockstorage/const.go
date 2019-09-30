@@ -36,4 +36,6 @@ const (
 	TypeSoftlayerFile Type = "SoftlayerFile"
 	// TypeEFS captures enum value "EFS"
 	TypeEFS Type = "EFS"
+	// TypeFCD captures emum value "FCD"
+	TypeFCD Type = "FCD"
 )
